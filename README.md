@@ -15,7 +15,12 @@ How to run the code:
 The link to the notebook is https://github.com/girish445ai/Recurrent_Neural_networks/blob/main/Transliteration_without_attention_FINAL.ipynb
 ### Transliteration with Attention:
 1. Run all the cells in the notebook in order.
+The link to the notebook is https://github.com/girish445ai/Recurrent_Neural_networks/blob/main/Transliteration_with_attention_FINAL.ipynb
 ### Poem generation:
 1. Run all the cells in the notebook 
+The link to the notebook is https://github.com/girish445ai/Recurrent_Neural_networks/blob/main/PoemGeneratorTransformers.ipynb
 
-The wandb report link is this :
+
+
+### The wandb report link is this :
+https://wandb.ai/girishrongali/assignment3/reports/CS6910-Assignment_3-Report--VmlldzoxOTU4ODU1
