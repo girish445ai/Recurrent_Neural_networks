@@ -13,11 +13,20 @@ How to run the code:
 2. The last subsection is sweep , ignore if only training is needed.
 
 The link to the notebook is https://github.com/girish445ai/Recurrent_Neural_networks/blob/main/Transliteration_without_attention_FINAL.ipynb
+
+### Testing Transliteration without Attention:
+1. Run all the cells in the order.
+2. the wandblinks are commented , no need to change them .
+3. After running the code a predictions_vanilla.tsv file is generated which contains the columns of latin language ,actual, predicted forms of telugu language . 
+
+The link to the notebook is https://github.com/girish445ai/Recurrent_Neural_networks/blob/main/TESTING_Transliteration_without_attention_FINAL.ipynb
 ### Transliteration with Attention:
 1. Run all the cells in the notebook in order.
+
 The link to the notebook is https://github.com/girish445ai/Recurrent_Neural_networks/blob/main/Transliteration_with_attention_FINAL.ipynb
 ### Poem generation:
 1. Run all the cells in the notebook 
+
 The link to the notebook is https://github.com/girish445ai/Recurrent_Neural_networks/blob/main/PoemGeneratorTransformers.ipynb
 
 
