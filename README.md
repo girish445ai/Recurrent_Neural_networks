@@ -33,3 +33,13 @@ The link to the notebook is https://github.com/girish445ai/Recurrent_Neural_netw
 
 ### The wandb report link is this :
 https://wandb.ai/girishrongali/assignment3/reports/CS6910-Assignment_3-Report--VmlldzoxOTU4ODU1
+
+
+
+References :
+For attention:
+https://medium.com/datalogue/attention-in-keras-1892773a4f22
+For dropout :
+https://machinelearningmastery.com/use-dropout-lstm-networks-time-series-forecasting/
+For beam_search decoder:
+https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/
